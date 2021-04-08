@@ -1,0 +1,12 @@
+https://www.apachefriends.org/index.html
+
+download xampp for windows   --  exe file
+
+Double click on exe file
+
+Then click on yes
+
+next- next - next ----finish
+
+
+localdisk----xampp--htdocs  ----we can create files and folders
